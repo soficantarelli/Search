@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "search-392623",
+  "private_key_id": "d7f1e8c1648202d03e18dc3aa0a1814cb0a7d618",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC91n9lPpwdbRn+\n+5F7W7pDXW1HGbqvPsVIvOfNOOVJ1HQXe0HcLGjDlvsvRe/8iWXgJ8MB8Zguo5I9\nhRQnbQdDFd8iSuuyQWH8vBIbbTLY5HF515CApkXkvrcSCVAkkpHe5Mue4ka3Y5e/\neYtaa7Nc3dnUQklmXm1sCHNagBBnVRg38cymYxyHfPs0cDMMi3YVgY3AWrQsACBM\n0edY1FuDdsXldt1MLaQhp1f/oR8SFYT6L8M/qF9OIgrVKJJximipotR4wRpyguIu\n/viqnKbniWQLo2uMHSeT0hK95JLRL995/I14EKqmwBMbAU461PhLv+VFXdFJyE4Y\nncCi5nyvAgMBAAECggEAAMejy+QfLLkaypE//oYRm7Qf/j3HmDazsBrrAGlgM0+N\nyE/M+nYC6JusD1/889aENkmhwADZg4alKQmJeG+MHN4asHF8WNQdfJmGEtoaUe0b\npjqYzXrvmlhmqh/4VfqR8GPpVVZP9Zyt5wR2P8FluuVgorPPAgyJelB35/REuW1F\neGmL196PcWwEIpyZ8TM6mIXgcVoihYuwrKMUBUk7SVZrj/n3ASGsq3VoS3G99IrF\nlIgI56sztGYZGmBts7KHmKBshP5oX6bk4K0qv4jn/3MGbqf1IKsnl4wJd41wuO2L\nOL9Lpk0A9enqOB1sBTyhOeWxy5nElZNDVaxJxgx/iQKBgQDqieo6gU2PvZyYHKFs\nF7t7VM1Y9UtTM3Y9rokhsZQODH+Rb2pL7COxzRCzYkotbdqRL9u4gJEX24vyaj1x\naY//z9xjfSYtJAgS5LaeYKLq2LAtBQ8hIoeNTvyJ1wLzjlZLVVxPVR1TWvIxiZma\ndYCJmIExtwhXANDbe9/ZaJ59awKBgQDPNXZe0wefnKR6y+Gw2iFr7tkcsqIKiFgE\nwB4Yqwa0du15ZKSfVeJo2nwKmzEOiCytqicljCtrv+bCtA3QgjYJS9zOgx99ksty\n1B5tRfjpQcB/s7FXBhtTBlKdrvkG+vaY1P/MoA7GGaGXXtIttASlWbnDi8p45vWG\npEjxJ9mqzQKBgQCpjX5pQSTjLz5PsRL5Y8bDiDDTiLEluuRV/yFf3FKePWbTqun7\nbQD4/rh+FiZt5SbHIwQCw98gkjT/0NIOdTQGySwYOFcq9wtnLTTgFhhxEql6QlgH\nqkC4ZUuoEmotzM6Rs2oCaBPFONAyA7mpshx0XG25lQpQa2SR52GSeFFrdQKBgGEq\nZNOaidyjC845hR/1ae6/FjiK28msnfm8TWCr8nz1t+5Q75F4KK+apMgkdiCmYq0d\nOTY2QLZKSt/Kpx+7r7M0S9rbSg0MpTK3nX0IbuyS1L4NeX+hcXbBZERlJInNbY3F\ndB50f/kNU+UzpcOgwvz20lGMX+nKBCCbMUlEsqGRAoGAGh54VMn+RuXANNFMm07h\nKs6HlXOaGm4TrAcAQx67RQAoGkrO7VZCBEDJ/et4mrL7RzNTNvcVArHbuuE/Cqb+\nyvQ2fS5i2j69rIpjUY7gA1yy2pVaQ0zuC0VUjBlFqJGv2tfaLbv9hsT1P6gGfLHH\nPfNAXxlDjTLSYGGsv0gb4ZA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dofus6723@search-392623.iam.gserviceaccount.com",
+  "client_id": "102010923707311798757",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dofus6723%40search-392623.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
